@@ -6,4 +6,4 @@ Kroki:
 1. docker-compose up
 2. Utworzenie indeksu - wtyczka do VS Code - Rest Client + plik ztm.http
 3. pip3 install -r requirements.txt
-4. python <nazwa-pliku>.py
+4. python <nazwa-pliku>.py (UWAGA: musisz wpisać swój api key z https://api.um.warszawa.pl/#)
